@@ -9,6 +9,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 h1 {
   color: #c2ccc5;
   font-size: 4rem;
@@ -50,7 +54,7 @@ p {
 
 .box_2 {
   height: 68rem;
-  width: auto;
+  width: 141rem;
   background-color: #252425;
   position: relative;
   top: 16rem;
@@ -163,7 +167,7 @@ p {
   position: relative;
 }
 
-.SK p {
+.sk p {
   font-size: 10rem;
   font-weight: 500;
   position: relative;
@@ -171,7 +175,12 @@ p {
   top: -6rem;
 }
 
-.Japan p {
+.sk p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.japan p {
   left: 62rem;
   font-size: 5rem;
   font-weight: 800;
@@ -179,7 +188,12 @@ p {
   top: -10rem;
 }
 
-.Sweden p {
+.japan p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.sweden p {
   font-size: 8rem;
   font-weight: 100;
   position: relative;
@@ -187,7 +201,12 @@ p {
   top: -12rem;
 }
 
-.England p {
+.sweden p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.england p {
   font-size: 7rem;
   font-weight: 400;
   position: relative;
@@ -195,7 +214,12 @@ p {
   left: 9rem;
 }
 
-.Wales p {
+.england p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.wales p {
   font-size: 11rem;
   font-weight: 700;
   position: relative;
@@ -203,18 +227,34 @@ p {
   left: 56rem;
 }
 
-.USA p {
+.wales p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.usa p {
   font-size: 8rem;
   font-weight: 600;
   position: relative;
   top: -39rem;
 }
 
-.Canada p {
+.usa p:hover {
+  color: #303d38;
+  cursor: pointer;
+}
+
+.canada p {
   font-size: 8rem;
   font-weight: 900;
   position: relative;
   top: -114rem;
+  width: 35rem;
+}
+
+.canada p:hover {
+  color: #303d38;
+  cursor: pointer;
 }
 
 .images {
