@@ -1,0 +1,228 @@
+@charset "UTF-8";
+/* CSS Document */
+html,
+body {
+  font-size: 10px;
+  background-color: #c2ccc5;
+  width: 100vw;
+  height: auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: #c2ccc5;
+  font-size: 4rem;
+  font-weight: 300;
+  padding: 10px 0 0 25px;
+}
+
+h2 {
+  color: #c2983d;
+  font-size: 5rem;
+  padding: 20px 0 0 25px;
+}
+
+.hobby {
+  color: #252425;
+  font-size: 5rem;
+  padding: 20px 0 0 75px;
+}
+
+h3 {
+  color: #303d38;
+  font-size: 5rem;
+  padding: 20px 0 0 25px;
+}
+
+p {
+  color: #c2ccc5;
+  padding-left: 3rem;
+  font-size: 1.5rem;
+}
+
+.box_1 {
+  height: 30rem;
+  width: 50rem;
+  background-color: #303d38;
+  position: absolute;
+  top: 1rem;
+}
+
+.box_2 {
+  height: 68rem;
+  width: auto;
+  background-color: #252425;
+  position: relative;
+  top: 16rem;
+  left: 30rem;
+}
+
+.box_3 {
+  height: auto;
+  width: 120rem;
+  background-color: #928a74;
+  position: relative;
+  top: 6rem;
+  left: -5rem;
+}
+
+.box_4 {
+  height: 100rem;
+  width: 100rem;
+  background-color: #c2983d;
+  position: relative;
+  top: -5rem;
+  left: 40rem;
+}
+
+.box_5 {
+  height: 50rem;
+  width: 180rem;
+  background-color: #303d38;
+  position: absolute;
+  left: 2rem;
+  top: 257rem;
+}
+
+.PipOri {
+  /*
+	height: 30rem;
+    width: auto;
+*/
+  padding: 0 0 15px 25px;
+}
+
+.Equine {
+  height: 14rem;
+  width: auto;
+  padding: 0 0 15px 25px;
+}
+
+.bread {
+  height: 14rem;
+  width: auto;
+  padding: 0 0 15px 25px;
+  position: absolute;
+  left: 33rem;
+}
+
+.watchapp {
+  height: 30rem;
+  width: auto;
+  padding: 0 0 15px 25px;
+}
+
+.crisal {
+  height: 14rem;
+  width: auto;
+  padding: 0 0 15px 25px;
+}
+
+.dolce {
+  height: 14rem;
+  width: 21rem;
+  padding: 0 0 0 25px;
+  position: absolute;
+  top: 12.2rem;
+  left: 113rem;
+}
+
+.croc_1 {
+  height: 14rem;
+  width: auto;
+  padding: 0px 0 10px 25px;
+  position: relative;
+  margin-top: 2rem;
+}
+
+.croc_2 {
+  height: 14rem;
+  width: auto;
+  padding: 0px 0 10px 25px;
+  position: relative;
+}
+
+.mise {
+  height: 14rem;
+  width: auto;
+  padding: 0px 0 10px 25px;
+  position: relative;
+}
+
+.infographic {
+  height: 14rem;
+  width: auto;
+  padding: 0px 0 10px 25px;
+  position: relative;
+}
+
+.CTA {
+  height: 14rem;
+  width: auto;
+  padding: 0px 0 10px 25px;
+  position: relative;
+}
+
+.SK p {
+  font-size: 10rem;
+  font-weight: 500;
+  position: relative;
+  left: 26rem;
+  top: -6rem;
+}
+
+.Japan p {
+  left: 62rem;
+  font-size: 5rem;
+  font-weight: 800;
+  position: relative;
+  top: -10rem;
+}
+
+.Sweden p {
+  font-size: 8rem;
+  font-weight: 100;
+  position: relative;
+  left: 43rem;
+  top: -12rem;
+}
+
+.England p {
+  font-size: 7rem;
+  font-weight: 400;
+  position: relative;
+  top: -14rem;
+  left: 9rem;
+}
+
+.Wales p {
+  font-size: 11rem;
+  font-weight: 700;
+  position: relative;
+  top: -32rem;
+  left: 56rem;
+}
+
+.USA p {
+  font-size: 8rem;
+  font-weight: 600;
+  position: relative;
+  top: -39rem;
+}
+
+.Canada p {
+  font-size: 8rem;
+  font-weight: 900;
+  position: relative;
+  top: -114rem;
+}
+
+.images {
+  padding: 0 0 5rem 7rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.images img {
+  padding: 0 1rem 2rem 0;
+}
